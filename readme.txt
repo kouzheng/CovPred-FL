@@ -1,3 +1,5 @@
+Coronavirus can cross the species barrier and infect humans with a severe respiratory syndrome. SARS-CoV-2 with potential origin of bat is still circulating in China. The prediction model is proposed to evaluate the infection risk of non-human-origin coronavirus for early warning.
+
 Guideline
 1. The code is design based on Python 2.7.15 and Scikit-learn 0.20.4 with the dependence of Biopython 1.72,Numpy 1.16.5,Pandas 0.24.2.
 2. The input sequence should be the full sequences of spike protein (S) of coronavirus as fasta format. The raw data should not be aligned as input!
